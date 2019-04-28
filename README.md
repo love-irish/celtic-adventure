@@ -1,4 +1,5 @@
 # Celtic Adventure
+The public tracker for _Celtic Adventure_, a RPG that explores Irish language and folklore.
 ## Overview
 ## Development
 ### Technology
